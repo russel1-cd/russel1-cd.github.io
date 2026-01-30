@@ -161,3 +161,13 @@ nav a.active {
     padding-bottom: 5px;
     font-weight: bold;
 }
+@media (max-width: 768px) {
+    section {
+        padding: 20px;
+        margin: 15px;
+    }
+
+    p, li {
+        line-height: 1.7;
+    }
+}

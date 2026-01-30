@@ -155,3 +155,9 @@ footer {
     padding: 15px;
     margin-top: 40px;
 }
+nav a.active {
+    color: #ffeb3b;
+    border-bottom: 3px solid #ffeb3b;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
